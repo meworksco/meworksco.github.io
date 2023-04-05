@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.vara.aibot.appclip",
+        "paths": [
+          "/aibot*",
+          "/aibot?ID=*"
+        ]
+      }
+    ]
+  }
+}
